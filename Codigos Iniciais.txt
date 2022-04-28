@@ -15,5 +15,3 @@ git config --global user.name "your name" -> nome atrelado aquela versao
 git commit -m "mensagem" -> commitar os arquivos
 
 git push -> subir os arquivos para a nuvem 
-
-

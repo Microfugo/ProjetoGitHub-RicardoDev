@@ -1,0 +1,10 @@
+Aprendendo Github
+
+Git Init -> Cria um repositorio do Git
+
+Git Status -> Verifica Status dos arquivos
+
+Git add "nome arquivo.extensão" -> adiciona um arquivo
+
+Git add . -> adiciona todos arquivos 
+

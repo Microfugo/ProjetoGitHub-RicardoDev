@@ -1,10 +1,19 @@
 Aprendendo Github
 
-Git Init -> Cria um repositorio do Git
+git init -> Cria um repositorio do Git
 
-Git Status -> Verifica Status dos arquivos
+git status -> Verifica Status dos arquivos
 
-Git add "nome arquivo.extensão" -> adiciona um arquivo
+git add "nome arquivo.extensão" -> adiciona um arquivo
 
-Git add . -> adiciona todos arquivos 
+git add . -> adiciona todos arquivos 
+
+git config --global user.email "you@email.com" -> email que fica vinculado aquela versao
+
+git config --global user.name "your name" -> nome atrelado aquela versao
+
+git commit -m "mensagem" -> commitar os arquivos
+
+git push -> subir os arquivos para a nuvem 
+
 

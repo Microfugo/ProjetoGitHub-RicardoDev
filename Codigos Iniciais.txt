@@ -23,4 +23,3 @@ git reset --hard "id" -> ira voltar para o id no qual é mostrado pelo git reflo
 git branch staging-> mostra as branchs, mas também pode adicionar uma nova, nesse caso staging é muito utilizada para fazer criar codigos sem prejuizo da master 
 
 git checkout staging -> mudar para branch staging
-

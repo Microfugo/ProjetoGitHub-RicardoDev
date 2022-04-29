@@ -4,6 +4,8 @@ git init -> Cria um repositorio do Git
 
 git status -> Verifica Status dos arquivos
 
+git pull -> atualizar o codigos para a versão mais atual
+
 git add "nome arquivo.extensão" -> adiciona um arquivo
 
 git add . -> adiciona todos arquivos 
@@ -24,4 +26,8 @@ git branch staging-> mostra as branchs, mas também pode adicionar uma nova, nes
 
 git checkout staging -> mudar para branch staging
 
+git chechout -b novabranch master -> cria uma nova branch copiando os arquivos da branch master
+
 git merge -> va ate a branch que deseja utilizar o comando e após isso utilize o comando 
+
+

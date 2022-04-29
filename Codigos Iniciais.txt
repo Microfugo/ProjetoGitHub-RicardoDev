@@ -16,4 +16,6 @@ git commit -m "mensagem" -> commitar os arquivos
 
 git push -> subir os arquivos para a nuvem 
 
-git reflog -> mostrar as versoes que foram adicionadas 
+git reflog -> mostrar as versoes que foram adicionadas
+
+git reset --hard "id" -> ira voltar para o id no qual é mostrado pelo git reflog ( é possivel navegar em diferentes commits dessa forma )

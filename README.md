@@ -1,2 +1,2 @@
 # Projeto1-RicardoDev
-Aprendendo Github 
+Alguns comandos básicos usados juntos com uma preve descrição de sua função no aprendizado do Github.
